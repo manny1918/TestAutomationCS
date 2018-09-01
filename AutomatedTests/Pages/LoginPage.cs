@@ -12,7 +12,7 @@ namespace AutomatedTests.Pages
 {
     class LoginPage: UserActions
     {
-        public LoginPage()//  
+        public LoginPage()//  //
         {
         }
         
